@@ -168,8 +168,8 @@ This of course is a super simplified version of a more complex program we could 
 
 Once we have the main code nailed down, it’s fun to play around with the parameters and look at how long it takes to achieve an optimal solution:
 
-![Fitness 1](/assets/images/fitness_1.png)
-![Fitness 2](/assets/images/fitness_2.png)
+![Fitness 1](/assets/images/genetic-algorithm/fitness_1.png)
+![Fitness 2](/assets/images/genetic-algorithm/fitness_2.png)
 
 Here’s a link to the repo: [https://github.com/gabrielgarza/simple-genetic-algorithm][github-repo]{:target="_blank"}
 
