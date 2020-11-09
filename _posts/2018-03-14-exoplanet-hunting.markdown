@@ -2,7 +2,7 @@
 layout: post
 title:  "Exoplanet Hunting with Machine Learning and Kepler Data"
 date:   2018-03-14 15:54:52 -0800
-categories: machinelearning space
+categories: machine-learning space
 ---
 In this post, our goal is to build a model that can predict the existence of an exoplanet (i.e. a planet that orbits a distant star system) given the light intensity readings from that star over time.
 
