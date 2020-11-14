@@ -4,16 +4,18 @@ title: About
 permalink: /about/
 ---
 
-Code:
+Links:
 
+- [Blog](https://gabrielgarza.github.io/)
 - [Github](https://github.com/gabrielgarza){:target="_blank"}
+- [LinkedIn](https://www.linkedin.com/in/garzagabriel/)
+- [Medium](https://medium.com/@gabogarza){:target="_blank"}
 
 Companies:
 
-- [Everlance](https://everlance.com){:target="_blank"}
-- [Sidengo](https://sidengo.com){:target="_blank"}  
+- [Everlance](https://everlance.com){:target="_blank"}, 2015 - Present
+- [Sidengo](https://sidengo.com){:target="_blank"}, 2011-2014 (Acquired)
 
-Blogs:
+Open Source
 
-- [This Site](https://gabrielgarza.github.io/)
-- [Medium](https://medium.com/@gabogarza){:target="_blank"}  
+- [Monza](https://github.com/gabrielgarza/monza){:target="_blank"}
