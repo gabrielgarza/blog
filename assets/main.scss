@@ -3,6 +3,20 @@
 
  @import "minima";
 
+ $primary-text-color: #e2e2e2;
+ $secondary-text-color: #c2c2c2;
+ $dark-color: #282c35;
+ $lighter-gray-color:#fff;
+ $light-gray-color: #e6e6e6;
+ $mid-gray-color: #666;
+ $dark-gray-color: #3b3e46;
+ $darker-gray-color: #2f333c;
+ $accent-color: #ff572f;
+ $green-color: #28a745;
+ $orange-color: #ffc107;
+ $red-color: #dc3545;
+
+
  p {
    line-height: 1.7;
  }
@@ -15,4 +29,51 @@ figure.image {
   text-align: center;
   margin: 40px 0;
   img { margin: 0 auto;}
+}
+
+body {
+  background-color: $dark-color;
+  color: $primary-text-color;
+}
+a {
+  color: $accent-color;
+
+  &:hover, &:visited {
+    color: $accent-color;
+  }
+}
+code {
+  color: #111;
+}
+pre,code {
+  background-color: #ececff;
+}
+.footer-heading{
+  display: none;
+}
+.site-footer p {
+  color: $secondary-text-color;
+}
+.p-name{
+  color: $secondary-text-color;
+}
+.highlight {
+  color: #111;
+}
+.site-header {
+  border-bottom: none;
+}
+.site-footer {
+  border-top: none;
+}
+.site-title, .site-title:visited {
+  color: $primary-text-color;
+}
+.site-nav {
+  .page-link {
+    color: $primary-text-color;
+  }
+}
+.post-meta {
+  color: $secondary-text-color;
 }
