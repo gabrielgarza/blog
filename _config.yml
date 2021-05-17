@@ -30,6 +30,10 @@ github_username:  gabrielgarza
 # Build settings
 theme: minima
 
+# Google Analytics - use one or the other
+google_analytics_4: G-JFRC5VJJ8W
+#google_analytics: UA-XXXXXXXX
+
 
 plugins:
   - jekyll-feed
