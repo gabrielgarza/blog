@@ -3,18 +3,22 @@
 
  @import "minima";
 
- $primary-text-color: #e2e2e2;
- $secondary-text-color: #c2c2c2;
- $dark-color: #282c35;
- $lighter-gray-color:#fff;
+ $primary-text-color: #4a4a4a;
+ $secondary-text-color: #383838;
+ $lighter-gray-color:#f6f9fc;
  $light-gray-color: #e6e6e6;
  $mid-gray-color: #666;
- $dark-gray-color: #3b3e46;
- $darker-gray-color: #2f333c;
- $accent-color: #ff572f;
+ $gray-color: #3b3e46;
+ $deep-gray-color: #2f333c;
+ $accent-color: #604693;
  $green-color: #28a745;
  $orange-color: #ffc107;
  $red-color: #dc3545;
+
+ $dark-primary-text-color: #e2e2e2;
+ $dark-secondary-text-color: #c2c2c2;
+ $dark-accent-color: #ff572f;
+ $dark-color: #282c35;
 
 
  p {
@@ -32,8 +36,9 @@ figure.image {
 }
 
 body {
-  background-color: $dark-color;
+  background-color: $light-gray-color;
   color: $primary-text-color;
+  font-family: 'IBM Plex Sans', sans-serif;
 }
 a {
   color: $accent-color;

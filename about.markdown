@@ -13,8 +13,8 @@ Links:
 
 Companies:
 
-- [Everlance](https://everlance.com){:target="_blank"}, 2015 - Present
-- [Sidengo](https://sidengo.com){:target="_blank"}, 2011-2014 (Acquired)
+- [Everlance](https://everlance.com){:target="_blank"} 2015 - Present
+- [Sidengo](https://sidengo.com){:target="_blank"} 2011-2014 (Acquired)
 
 Open Source
 
